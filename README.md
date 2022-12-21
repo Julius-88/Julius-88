@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Julius-88
 - 👀 I’m interested in games, LitRpg, technology
-- 🌱 I’m currently learning Front-End Development
+- 🌱 I’m currently learning Fullstack Development
 - 💞️ I’m looking to collaborate on anything I can help with =)
 - 📫 How to reach me: You reach me best through my email. julius.soltani@gmail.com
 
