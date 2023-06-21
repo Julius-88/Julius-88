@@ -15,7 +15,6 @@ When I am not immersing myself in code, I am exploring other aspects of life. I 
 
 ## Design Tools
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 
 ## Languages
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
@@ -31,6 +30,7 @@ When I am not immersing myself in code, I am exploring other aspects of life. I 
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ## Tools & Services
+![Font Awesome](https://img.shields.io/badge/Font_Awesome-339AF0?style=for-the-badge&logo=fontawesome&logoColor=white)
 ![Emailjs](https://github.com/Julius-88/Julius-88/assets/63728874/516779a6-fdcf-4181-bb4b-e1da9ed7cfd8)
 ![Airtable](https://github.com/Julius-88/Julius-88/assets/63728874/58211f28-38fb-4acd-973b-b1d9896f99bc)
 ![Formspree](https://github.com/Julius-88/Julius-88/assets/63728874/0ef3b580-a9a8-42c4-84fb-ad328e1634d3)
