@@ -6,7 +6,7 @@ Driven by a passion for realizing ideas, I transitioned from a long-standing sal
 When I am not immersing myself in code, I am exploring other aspects of life. I enjoy watching horror and thriller films with my family, gaming with friends over discord, and embarking on adventurous journeys. Exploring new places and trying new things is a passion of mine. I am currently planning trips to Mallorca with friends and Thailand with my family, both of which I am visiting for the first time. I am excited to see what these countries have to offer.
 
 
-[Click here to go to my portfolio](https://julius-88.github.io/portfolio-3.0/){:target="_blank" rel="noopener noreferrer"}
+[Click here to go to my portfolio](https://julius-88.github.io/portfolio-3.0/)
 
 # Things I Have Worked With
 
