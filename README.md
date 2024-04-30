@@ -1,10 +1,11 @@
 ![logo (2)](https://github.com/Julius-88/Julius-88/assets/63728874/dd8f7d13-d7ff-44be-b54a-2112b71529f2)
 
 # About Me
-Driven by a passion for realizing ideas, I transitioned from a long-standing sales career to programming. This journey started when I met a couple of coders and saw the potential to make my ideas come to life. In pursuit of this new path, I successfully completed a two-year Front End program at KYH in 2022. However, my thirst for knowledge was not quenched, leading me to join the Full Stack Software Developer program at the Code Institute. With just two projects left before graduation, I can confidently say this journey, though filled with ups and downs, has enriched my skills immensely and cultivated a continuous desire for growth. I am eagerly anticipating applying this knowledge to more real-world projects.
+Driven by a passion for realizing ideas, I transitioned from a long-standing sales career to programming. This journey started when I met a couple of coders and saw the potential to make my ideas come to life. In pursuit of this new path, I successfully completed a two-year Front End program at KYH in 2022. However, my thirst for knowledge was not quenched, leading me to join the Full Stack Software Developer program at the Code Institute which I have now graduated from 30th of April 2024. I can confidently say this journey, though filled with ups and downs, has enriched my skills immensely and cultivated a continuous desire for growth.
 
-When I am not immersing myself in code, I am exploring other aspects of life. I enjoy watching horror and thriller films with my family, gaming with friends over discord, and embarking on adventurous journeys. Exploring new places and trying new things is a passion of mine. I am currently planning trips to Mallorca with friends and Thailand with my family, both of which I am visiting for the first time. I am excited to see what these countries have to offer.
+I am currently applying all that I have learned on several websites that I am creating for my friends businesses.
 
+When I am not immersing myself in code, I am exploring other aspects of life. I enjoy watching horror and thriller films with my family, gaming with friends over discord, and embarking on adventurous journeys. Exploring new places and trying new things is a passion of mine.
 
 [Click here to go to my portfolio](https://julius-88.github.io/portfolio-3.0/)
 
