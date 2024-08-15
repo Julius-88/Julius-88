@@ -1,5 +1,3 @@
-![logo (2)](https://github.com/Julius-88/Julius-88/assets/63728874/dd8f7d13-d7ff-44be-b54a-2112b71529f2)
-
 # About Me
 Driven by a passion for realizing ideas, I transitioned from a long-standing sales career to programming. This journey started when I met a couple of coders and saw the potential to make my ideas come to life. In pursuit of this new path, I successfully completed a two-year Front End program at KYH in 2022. However, my thirst for knowledge was not quenched, leading me to join the Full Stack Software Developer program at the Code Institute which I have now graduated from 30th of April 2024. I can confidently say this journey, though filled with ups and downs, has enriched my skills immensely and cultivated a continuous desire for growth.
 
