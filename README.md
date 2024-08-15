@@ -7,6 +7,8 @@ When I am not immersing myself in code, I am exploring other aspects of life. I 
 
 [Click here to go to my portfolio](https://julius-88.github.io/portfolio-3.0/)
 
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius-88)
+
 # Things I Have Worked With
 
 ## IDEs/Editors I Use
