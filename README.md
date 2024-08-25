@@ -5,8 +5,6 @@ I am currently applying all that I have learned on several websites that I am cr
 
 When I am not immersing myself in code, I am exploring other aspects of life. I enjoy watching horror and thriller films with my family, gaming with friends over discord, and embarking on adventurous journeys. Exploring new places and trying new things is a passion of mine.
 
-[Click here to go to my portfolio](https://julius-88.github.io/portfolio-3.0/)
-
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius-88)
 
 # Things I Have Worked With
