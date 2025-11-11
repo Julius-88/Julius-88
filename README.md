@@ -1,9 +1,5 @@
 # About Me
-Driven by a passion for realizing ideas, I transitioned from a long-standing sales career to programming. This journey started when I met a couple of coders and saw the potential to make my ideas come to life. In pursuit of this new path, I successfully completed a two-year Front End program at KYH in 2022. However, my thirst for knowledge was not quenched, leading me to join the Full Stack Software Developer program at the Code Institute which I have now graduated from 30th of April 2024. I can confidently say this journey, though filled with ups and downs, has enriched my skills immensely and cultivated a continuous desire for growth.
-
-I am currently applying all that I have learned on several websites that I am creating for my friends businesses.
-
-When I am not immersing myself in code, I am exploring other aspects of life. I enjoy watching horror and thriller films with my family, gaming with friends over discord, and embarking on adventurous journeys. Exploring new places and trying new things is a passion of mine.
+I started coding after years in sales because I wanted to bring my own ideas to life. Since then, I’ve completed Front End and Full Stack programs and kept learning every day. I enjoy building things that work well and make sense. Outside of coding, I’m into games, movies, and exploring new places.
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=julius-88)
 
@@ -50,13 +46,6 @@ When I am not immersing myself in code, I am exploring other aspects of life. I 
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Sanity.IO](https://github.com/Julius-88/Julius-88/assets/63728874/df843a65-69b0-49e6-aae7-8434358fc374)
-
-
-## Currently Learning
-![JQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Future Learning & Practice Plans
 ![Three.js](https://img.shields.io/badge/ThreeJs-black?style=for-the-badge&logo=three.js&logoColor=white)
